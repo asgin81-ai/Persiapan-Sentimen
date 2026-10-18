@@ -1,0 +1,61 @@
+﻿id,text,label,aspect,reason,source
+R001,Pelayanan tidak bagus dan responsnya lambat.,negatif,Pelayanan,"Memuat keluhan langsung dengan kata kunci ""tidak bagus"" dan ""responsnya lambat"".",sintetis untuk latihan
+R002,Notifikasi pesanan sering gagal muncul.,negatif,Aplikasi,"Menyatakan kegagalan fungsi fitur lewat kata ""sering gagal muncul"".",sintetis untuk latihan
+R003,Toko buka pukul delapan pagi.,netral,Informasi operasional,Bersifat fakta informatif murni tanpa kata sifat opini/emosi.,sintetis untuk latihan
+R004,Pesanan datang terlambat dua jam.,negatif,Pengiriman,"Menyatakan keterlambatan waktu terima barang lewat bukti ""terlambat dua jam"".",sintetis untuk latihan
+R005,Pembayaran berlangsung lancar tanpa kendala.,positif,Pembayaran,"Menyatakan transaksi yang baik dengan kata kunci ""lancar tanpa kendala"".",sintetis untuk latihan
+R006,Aplikasi lemot saat pembayaran.,negatif,Aplikasi,"Menunjukkan kendala teknis performa sistem lewat kata sifat negatif ""lemot"".",sintetis untuk latihan
+R007,Foto produk sesuai dengan barang yang diterima.,positif,Kesesuaian produk,"Menyatakan kepuasan karena ekspektasi visual terpenuhi (""sesuai dengan barang yang diterima"").",sintetis untuk latihan
+R008,"Gak mengecewakan, kualitasnya bagus.",positif,Kualitas Produk,"Memuat sentimen apresiasi langsung dengan frasa ""gak mengecewakan"" dan ""kualitasnya bagus"".",sintetis untuk latihan
+R009,Harga terlalu mahal dibanding kualitasnya.,negatif,Harga,"Menyatakan ketidaksesuaian nilai harga lewat frasa ""terlalu mahal dibanding kualitasnya"".",sintetis untuk latihan
+R010,Ukuran produk jauh lebih kecil dari deskripsi.,negatif,Kesesuaian Produk,"Menunjukkan ketidaksesuaian barang fisik lewat frasa ""jauh lebih kecil dari deskripsi"".",sintetis untuk latihan
+R011,Paket dikirim pada hari Senin.,netral,Pengiriman,Kalimat berupa informasi fakta murni tanpa memuat kata sentimen positif maupun negatif.,sintetis untuk latihan
+R012,Pesanan tidak sesuai dengan pilihan menu.,negatif,Akurasi Pesanan,"Menyatakan kesalahan pemenuhan pesanan lewat kata ""tidak sesuai dengan pilihan menu"".",sintetis untuk latihan
+R013,Petugas tidak membantu ketika ada keluhan.,negatif,Pelayanan,"Menyatakan keluhan terhadap respons staf lewat bukti frasa ""tidak membantu ketika ada keluhan"".",sintetis untuk latihan
+R014,Makanan masih hangat saat diterima.,positif,Kualitas Produk,"Menyatakan kondisi barang terjaga saat sampai dengan bukti kata ""masih hangat saat diterima"".",sintetis untuk latihan
+R015,Antrean lama dan petugas tidak ramah.,negatif,Pelayanan,"Memuat keluhan terkait waktu tunggu dan sikap staf (""antrean lama"", ""petugas tidak ramah"").",sintetis untuk latihan
+R016,Aplikasi mudah digunakan untuk memesan.,positif,Aplikasi,"Menunjukkan kepuasan terhadap antarmuka/sistem lewat bukti kata ""mudah digunakan"".",sintetis untuk latihan
+R017,Terdapat empat pilihan metode pembayaran.,netral,Pembayaran ,Kalimat informatif objektif mengenai opsi pembayaran tanpa ungkapan opini.,sintetis untuk latihan
+R018,Pesanan berisi dua nasi dan satu minuman.,netral,Rincian Pesanan,Kalimat hanya memaparkan rincian isi paket secara faktual tanpa muatan opini,sintetis untuk latihan
+R019,"Pesanan lengkap, tidak ada yang tertinggal.",positif,Kelengkapan Pesanan,"Menyatakan kepuasan pemenuhan pesanan lewat frasa ""lengkap, tidak ada yang tertinggal"".",sintetis untuk latihan
+R020,Pengiriman cepat dan barang aman.,positif,Pengiriman,"Memuat pujian eksplisit terkait kurir dan kondisi paket lewat frasa ""cepat dan barang aman"".",sintetis untuk latihan
+R021,Pembayaran dapat menggunakan transfer bank.,netral,Pembayaran,Pernyataan deskriptif objektif mengenai metode transaksi tanpa unsur penilaian.,sintetis untuk latihan
+R022,Stok ternyata habis setelah pembayaran berhasil.,negatif,Ketersediaan Stok,"Menunjukkan kekecewaan akibat ketidaksesuaian stok (""ternyata habis setelah pembayaran berhasil"").",sintetis untuk latihan
+R023,Barang rusak saat diterima.,negatif,Kondisi Produk,"Menyatakan kondisi fisik barang bermasalah saat tiba lewat bukti kata ""rusak saat diterima"".",sintetis untuk latihan
+R024,Kurir tidak memberi kabar dan paket ditinggalkan sembarangan.,negatif,Pengiriman,"Memuat keluhan terhadap perilaku kurir (""tidak memberi kabar"", ""ditinggalkan sembarangan"").",sintetis untuk latihan
+R025,Diskonnya menarik dan jelas syaratnya.,positif,Promosi,"Menyatakan kepuasan terhadap penawaran promo dengan kata kunci ""menarik"" dan ""jelas syaratnya"".",sintetis untuk latihan
+R026,Nomor pesanan tercantum pada kuitansi.,netral,Informasi Transaksi,Menyampaikan fakta pencantuman nomor pesanan tanpa penilaian emosional.,sintetis untuk latihan
+R027,Rasa makanannya enak dan porsinya pas.,positif,Kualitas Produk,"Menyatakan kepuasan secara langsung lewat kata ""enak"" dan ""porsinya pas"".",sintetis untuk latihan
+R028,Layanan pemesanan tersedia melalui aplikasi.,netral,Aplikasi Pemesanan,Pernyataan deskriptif mengenai metode pemesanan tanpa ungkapan opini.,sintetis untuk latihan
+R029,Lokasi toko berada di dekat terminal.,netral,Lokasi,Kalimat fakta penunjuk letak toko secara netral/objektif.,sintetis untuk latihan
+R030,Promo tidak bisa digunakan meski syarat dipenuhi.,negatif,Promosi,"Menyatakan kegagalan pemakaian diskon (""tidak bisa digunakan meski syarat dipenuhi"").",sintetis untuk latihan
+R031,Kurir sopan dan memberi kabar sebelum tiba.,positif,Pengiriman,"Menunjukkan kepuasan terhadap etika dan komunikasi kurir (""sopan"", ""memberi kabar sebelum tiba"").",sintetis untuk latihan
+R032,"Keluhan ditangani sampai selesai, puas.",positif,Pelayanan,"Menyatakan penyelesaian masalah yang tuntas dengan kata eksplisit ""puas"".",sintetis untuk latihan
+R033,"Tidak mengecewakan, barangnya sesuai deskripsi.",positif,Kualitas Produk,"Memuat sentimen positif lewat penegasan ""tidak mengecewakan"" dan ""sesuai deskripsi"".",sintetis untuk latihan
+R034,"Pesanan tiba tepat waktu, kemasannya juga rapi.",positif,Pengiriman,"Menunjukkan kepuasan atas ketepatan waktu kurir dan kemasan (""tepat waktu"", ""rapi"").",sintetis untuk latihan
+R035,Makanan tiba dalam keadaan dingin.,negatif,Kualitas Produk,"Menyatakan penurunan mutu makanan saat diterima lewat frasa ""keadaan dingin"".",sintetis untuk latihan
+R036,Petugas menjelaskan menu dengan sabar.,positif,Pelayanan,"Memuat pujian terhadap sikap staf lewat bukti frasa ""menjelaskan menu dengan sabar"".",sintetis untuk latihan
+R037,Proses pemesanan singkat dan praktis.,positif,Proses Pemesanan,"Menyatakan kepuasan terhadap efisiensi transaksi lewat kata ""singkat dan praktis"".",sintetis untuk latihan
+R038,Berat produk tertulis lima ratus gram.,netral,Informasi Produk,Menyampaikan deskripsi faktual berat barang tanpa penilaian opini.,sintetis untuk latihan
+R039,Respons petugas sangat membantu.,positif,Pelayanan,"Menyatakan kepuasan terhadap tanggapan staf lewat bukti kata ""sangat membantu"".",sintetis untuk latihan
+R040,Produk tersedia dalam tiga ukuran.,netral,Informasi Produk,Pernyataan objektif mengenai pilihan ukuran tanpa penilaian emosional.,sintetis untuk latihan
+R041,Kemasan berwarna putih dengan label toko.,netral,Kemasan,Deskripsi fisik kemasan secara objektif tanpa muatan kepuasan/keluhan.,sintetis untuk latihan
+R042,"Kualitas produk bagus, akan pesan lagi.",positif,Kualitas Produk,"Menunjukkan kepuasan tinggi dan niat beli ulang (""kualitas produk bagus"", ""akan pesan lagi"").",sintetis untuk latihan
+R043,Tidak mahal untuk porsi sebesar ini.,positif,Harga,"Menyatakan kepuasan terhadap perbandingan nilai harga dan porsi (""tidak mahal"").",sintetis untuk latihan
+R044,Rasa makanan terlalu asin.,negatif,Kualitas Produk,"Memuat keluhan rasa yang tidak sesuai ekspektasi lewat kata ""terlalu asin"".",sintetis untuk latihan
+R045,Kemasan bocor sehingga makanan tumpah.,negatif,Kemasan,"Menunjukkan cacat fisik pembungkus lewat frasa ""kemasan bocor sehingga makanan tumpah"".",sintetis untuk latihan
+R046,"Rasanya mantap bgt, suka!",positif,Kualitas Produk,"Menyatakan kepuasan rasa yang sangat tinggi lewat kata ""mantap bgt"" dan ""suka!"".",sintetis untuk latihan
+R047,Stok yang tercantum sesuai dengan ketersediaan.,positif,Ketersediaan stok,"Menyatakan kepuasan terhadap keakuratan informasi stok (""sesuai dengan ketersediaan"").",sintetis untuk latihan
+R048,Pelayanannya ramah dan cepat.,positif,Pelayanan,"Memuat pujian langsung terhadap kualitas layanan staf (""ramah dan cepat"").",sintetis untuk latihan
+R049,Tempatnya bersih dan nyaman.,positif,Fasilitas,"Menyatakan kepuasan atas kondisi fisik lokasi lewat kata ""bersih dan nyaman"".",sintetis untuk latihan
+R050,Harga terjangkau untuk kualitas seperti ini.,positif,Harga ,"Menyatakan nilai harga yang dinilai ramah kantong dan sepadan (""terjangkau"").",sintetis untuk latihan
+R051,Proses pengembalian dana berbelit-belit.,negatif,Pengembalian Dana,"Menunjukkan keluhan alur transaksi/refund yang menyulitkan lewat bukti ""berbelit-belit"".",sintetis untuk latihan
+R052,Barang cepat rusak setelah dua kali pemakaian.,negatif,Kualitas Produk,"Menyatakan keluhan keawetan fisik barang (""cepat rusak setelah dua kali pemakaian"").",sintetis untuk latihan
+R053,Menu minuman ditampilkan di halaman kedua.,netral,Tata Letak Menu,Menyampaikan letak kategori minuman secara faktual tanpa muatan opini.,sintetis untuk latihan
+R054,Layanan pengembalian barang memudahkan pelanggan.,positif,Kebijakan Retur,"Menyatakan kepuasan atas kemudahan prosedur retur lewat frasa ""memudahkan pelanggan"".",sintetis untuk latihan
+R055,Menu pencarian membantu menemukan produk.,positif,Aplikasi,"Menunjukkan kebermanfaatan fitur aplikasi lewat frasa ""membantu menemukan produk"".",sintetis untuk latihan
+R056,Minumannya segar dan tidak terlalu manis.,positif,Kualitas Produk,"Menyatakan kepuasan rasa minuman lewat frasa ""segar dan tidak terlalu manis"".",sintetis untuk latihan
+R057,"Bagus sekali, ukuran produknya pas.",positif,Kualitas Produk,"Menyatakan kepuasan atas mutu dan ukuran barang (""bagus sekali"", ""ukurannya pas"").",sintetis untuk latihan
+R058,Pengemasan kuat sehingga produk tidak rusak.,positif,Pengemasan,"Menyatakan kepuasan perlindungan kemasan paket (""pengemasan kuat"", ""tidak rusak"").",sintetis untuk latihan
+R059,Pelayanannya konsisten baik sejak awal.,positif,Pelayanan,"Apresiasi terhadap mutu layanan yang terjaga konsisten (""konsisten baik sejak awal"").",sintetis untuk latihan
+R060,Barang tahan lama meski dipakai setiap hari.,positif,Kualitas produk,"Menyatakan kepuasan keawetan barang lewat frasa ""tahan lama meski dipakai setiap hari"".",sintetis untuk latihan
